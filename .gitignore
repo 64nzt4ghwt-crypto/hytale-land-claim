@@ -3,3 +3,7 @@ build/
 *.class
 .idea/
 *.iml
+libs/
+build/
+*.jar
+.gradle/
